@@ -1,0 +1,9 @@
+# IDE
+/.idea
+/.vscode
+
+# node modules
+/node_modules
+
+# build
+/build
